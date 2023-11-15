@@ -1,0 +1,5 @@
+gxt -g LCS -i "ENGLISH.txt" -o "../../gamefiles/TEXT/ENGLISH.gxt"
+gxt -g LCS -i "french.txt" -o "../../gamefiles/TEXT/french.gxt"
+gxt -g LCS -i "german.txt" -o "../../gamefiles/TEXT/german.gxt"
+gxt -g LCS -i "italian.txt" -o "../../gamefiles/TEXT/italian.gxt"
+gxt -g LCS -i "spanish.txt" -o "../../gamefiles/TEXT/spanish.gxt"
